@@ -1,33 +1,34 @@
-# Julian Tormes's Final Project for Harvard CS50 💡💻
+# Julian Tormes's Final Project for Harvard CS50 🎓💡
 
-## Introduction
-Hello! I'm Julian Tormes, a dedicated student of software engineering. This repository contains my final project for Harvard's renowned CS50 course. This project encapsulates my learning journey and showcases my skills in software development.
+## 🌟 Introduction
+Welcome! I'm Julian Tormes, a passionate student in the field of software engineering. This repository is the home of my final project for Harvard's CS50 course, a platform where I showcase my skills and learning journey in software development.
 
-## About the Project
-- [To be decided]
+## 📝 About the Project
+*Details to be decided*
 
-## Features
-- [To be decided]
+## ⚙️ Features
+*Details to be decided*
 
-## Technologies Used
-- [Python, JavaScript, HTML, CSS, Flask, to be decided]
+## 🛠️ Technologies Used
+- Python, JavaScript, HTML, CSS, Flask *(others to be decided)*
 
-## Setup and Installation
-[I will Provide a step-by-step guide on how to set up and run my project locally, including any requirements for software, libraries, or any other dependencies.]
+## 🚀 Setup and Installation
+I'll provide a detailed, step-by-step guide to set up and run my project locally. This will include all necessary software, libraries, and other dependencies.
 
-## Usage
-- [To be decided]
+## 🖥️ Usage
+*Details to be decided*
 
-## Reflection
-- [I will update my reflections during the project expressing how i felt and what diffuclties i faced]
+## 🤔 Reflection
+Throughout this project, I'll share my thoughts, challenges faced, and learning experiences. *(Updates to come)*
 
-## Acknowledgements
-- Thanks to the Harvard CS50 staff and community for the invaluable learning experience.
-- Special thanks to [anyone else you wish to acknowledge].
+## 🙏 Acknowledgements
+A heartfelt thanks to the Harvard CS50 staff and community for an invaluable learning journey. Special shoutout to David J. Malan for his exceptional teaching.
 
-## Contact
-For any inquiries or feedback, feel free to reach out to me at [juliants10@gmail.com] or [Julian Tormes](https://www.linkedin.com/in/julian-tormes-763234265/).
+## 📬 Contact
+For any inquiries or feedback, feel free to reach out:
+- Email: [juliants10@gmail.com]
+- LinkedIn: [Julian Tormes](https://www.linkedin.com/in/julian-tormes-763234265/)
 
 ---
 
-This project is part of the [Harvard University's CS50 course](https://cs50.harvard.edu/).
+Proudly part of [Harvard University's CS50 course](https://cs50.harvard.edu/).
