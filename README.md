@@ -26,7 +26,7 @@ A heartfelt thanks to the Harvard CS50 staff and community for an invaluable lea
 
 ## 📬 Contact
 For any inquiries or feedback, feel free to reach out:
-- Email: [juliants10@gmail.com]
+- Email: juliants10@gmail.com
 - LinkedIn: [Julian Tormes](https://www.linkedin.com/in/julian-tormes-763234265/)
 
 ---
